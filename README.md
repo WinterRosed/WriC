@@ -3,7 +3,7 @@
 <body>
 
 <h1>WirC,
-Winter Rose Infinite Cosmos
+Winter Rose Infinite Cosmos.
 </h1>
 
 <button onclick="typeWriter()">روی من کلیک کن.</button>
