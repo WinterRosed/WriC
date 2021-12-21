@@ -13,7 +13,7 @@ W1NT3R-R05E-1NF1N1T3-C05M05
 <script>
 var i = 0;
 var txt = 'Hello there. my name is Winter Rose and i am from former Persia. its a testing net website. ill be developing this page';
-var speed = 100;
+var speed = 99;
 
 function typeWriter() {
   if (i < txt.length) {
