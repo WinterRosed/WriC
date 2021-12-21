@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 
-<h1>WirC,
-Winter Rose Infinite Cosmos
+<h1>wirC,
+W1NT3R-R05E-1NF1N1T3-C05M05
 </h1>
 
 <button onclick="typeWriter()">روی من کلیک کن.</button>
